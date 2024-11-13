@@ -1,0 +1,10 @@
+# TODO List
+
+- [ ] Handle the upload post/ when i upload it sends fakepath// and not uploaded to backendd 
+- [ ] Handle User Routes -- add and remove and get Friends
+- [ ] Handle likePost 
+- [ ] 
+<!-- - [ ] Write unit tests for the authentication module
+- [ ] Optimize the application for performance
+- [ ] Deploy the application to the production server
+- [ ]  -->
